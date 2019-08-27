@@ -1,0 +1,5 @@
+print("Hello,world")
+s=1
+for i in range(8):
+    s=s*4
+print(s)
